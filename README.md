@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud computing
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on server-side Web dev
-- 📫 How to reach me X00229504@myTUDublin.ie / pakogalan@protonmail.com
+- 📫 How to reach me pakogalan@protonmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I rescue cats and build houses for them 
 
